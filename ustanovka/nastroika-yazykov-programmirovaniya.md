@@ -40,7 +40,8 @@ services:
     restart: unless-stopped
   <...>
   checker-goland:
-    build: ./NAME.Dockerfile
+    build:
+      dockerfile: ./NAME.Dockerfile
     restart: unless-stopped
 
 ```
