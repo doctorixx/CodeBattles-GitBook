@@ -1,7 +1,6 @@
 # Table of contents
 
 * [CodeBattles](README.md)
-* [Page](<README (1).md>)
 
 ## Обзор
 
