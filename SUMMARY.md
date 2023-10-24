@@ -12,6 +12,7 @@
 
 * [Установка](ustanovka/ustanovka.md)
 * [Настройка языков программирования](ustanovka/nastroika-yazykov-programmirovaniya.md)
+* [Образы чекеров](ustanovka/obrazy-chekerov.md)
 
 ## Свое соревнование
 
