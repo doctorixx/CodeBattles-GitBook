@@ -16,5 +16,7 @@
 
 ## Свое соревнование
 
-* [Подготовка задач](svoe-sorevnovanie/podgotovka-zadach.md)
+* [Подготовка задач](svoe-sorevnovanie/podgotovka-zadach/README.md)
+  * [Создание своей задачи](svoe-sorevnovanie/podgotovka-zadach/sozdanie-svoei-zadachi.md)
+  * [Импорт готовой задачи](svoe-sorevnovanie/podgotovka-zadach/import-gotovoi-zadachi.md)
 * [Создание соревнования](svoe-sorevnovanie/sozdanie-sorevnovaniya.md)
