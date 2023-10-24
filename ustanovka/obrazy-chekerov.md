@@ -9,6 +9,8 @@
 
 ## Как скачать?
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Для скачивания нажать на кнопку, которая выделена <mark style="color:red;">красным</mark> цветом на фото
+{% endhint %}
 
-Для скачивания нажать на кнопку, которая выделена красным цветом на фото
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
