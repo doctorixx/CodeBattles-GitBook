@@ -33,31 +33,9 @@ python manager.py create {NAME} -f -e
 <mark style="color:green;">examples</mark> - словарь, где ключ - входные данные, значение - выходные\
 <mark style="color:green;">input\_data</mark> - список с входными значениями, с которыми сгенерируются тесты
 
-{% code title="build.py" overflow="wrap" lineNumbers="true" %}
-```python
-from core.runner import Runner
-
-runner = Runner()
-
-examples = {
-    "Hello": "Hello",
-    "i++": "i++",
-}
-
-input_data = ["This", "is", "test", "data"]
-
-out = runner.run_many(input_data)
-runner.save_tests(out, input_data)
-runner.save_examples(examples)
-runner.build(indent=2)
-print("[+] Done")
-
-```
-{% endcode %}
-
 Для большего понимания рассмотрим страницу с задачей, что именно куда подставляется. И попробуем сделать такую же задачу
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% @github-files/github-code-block %}
 
 ## Свои тесты для программы
 
